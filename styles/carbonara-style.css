@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(197, 248, 231);
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    align-items: center;
+}
